@@ -107,13 +107,13 @@ header img {
 
 .btn {
             display: inline-block;
-            
             background-color: var(--primary-color);
             color: white;
             padding: 12px 24px;
             text-decoration: none;
             border-radius: 5px;
             transition: background-color 0.3s ease;
+            line-height: 30px;
         }
 .contac{
 
@@ -176,7 +176,7 @@ header img {
 }
 .active{
     display: block;
-    transition: 5s;
+    transition: 0.5s ease-in;
 }
 .remove{
     display: none;
