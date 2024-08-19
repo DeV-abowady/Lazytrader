@@ -61,8 +61,8 @@
         width: 90px;
         height: 30px;
         font-size: 12px;
-        transform: translateY(100px);
-        position: absolute;
+/*         transform: translateY(100px);
+        position: absolute; */
         left: 40vw;
 
     }
@@ -218,8 +218,8 @@
         width: 120px;
         height: 40px;
         font-size: 14px;
-        transform: translateY(250px);
-        position: absolute;
+/*         transform: translateY(250px);
+        position: absolute; */
         left: 50vw;
         line-height: 1em;
         font-weight: 600;
