@@ -62,7 +62,7 @@
     }
     .contac:hover{
         color: white;
-        transform: translateY(5px);
+        transform: translateY(95px);
         transition: 0.5s transform ease-in;
         font-weight: 800;
     }
