@@ -60,12 +60,12 @@
         left: 40vw;
 
     }
-    .contac:hover{
+/*     .contac:hover{
         color: white;
         transform: translateY(95px);
         transition: 0.5s transform ease-in;
         font-weight: 800;
-    }
+    } */
     .section-title h2{
         padding: 5px;
         font-size: 1.5rem;
@@ -212,13 +212,13 @@
         line-height: 1em;
         font-weight: 600;
     }
-    .hero-content a:hover{
+/*     .hero-content a:hover{
 
         color: white;
         transform: translateY(240px);
         transition: 0.5s transform ease-in;
         font-weight: 600;
-    }
+    } */
     .contact-content p,footer p{
 
         font-size: 16px;
