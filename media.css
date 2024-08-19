@@ -51,6 +51,12 @@
 
 
     }
+    .btn:hover {
+            background-color: #2980b9;
+            transition: 0.5s background-color ease-in;
+            opacity: 0.9;
+
+        }
     .hero-content a{
         width: 90px;
         height: 30px;
@@ -202,6 +208,12 @@
         height: fit-content;
 
     }
+    .btn:hover {
+            background-color: #2980b9;
+            transition: 0.5s background-color ease-in;
+            opacity: 0.9;
+
+        }
     .hero-content a {
         width: 120px;
         height: 40px;
