@@ -116,8 +116,8 @@ header img {
             height: 40px;
             font-size: 14px;
             position: absolute;
-/*           transform: translateY(480px);
-              */
+            transform: translateY(480px);
+              
             left: 50vw;
             line-height: 1em;
             font-weight: 600;
@@ -127,8 +127,8 @@ header img {
 
             background-color: var(--primary-color);
             font-weight: 800;
-            /*transform: translateY(470px);*/
-            transition: 0.5s background-color ease-in; 
+/*             transform: translateY(470px);*/
+            transition: 0.5s background-color ease-in;  
             
 
             
