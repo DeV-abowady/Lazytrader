@@ -9,7 +9,7 @@
         }
 
 *,html{
-            color:var(--text-color);
+            
             margin: 0;
             padding: 0;
             box-sizing: border-box;
@@ -90,7 +90,7 @@ header img {
         }
 
 .nav-links a {
-            
+            color:var(--text-color);
             text-decoration: none;
             font-weight: 600;
             transition: color 0.3s ease-in;
