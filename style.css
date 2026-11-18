@@ -86,7 +86,7 @@ header img {
         }
 
 .nav-links a {
-            color: white;
+            color: rgb(26, 38, 56);
             text-decoration: none;
             font-weight: 600;
             transition: color 0.3s ease-in;
